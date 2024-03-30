@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\2 курс\2 курс 2 семестр\практика\Binary_Tree\bin\Debug\netcoreapp3.1\Binary_Tree.exe
+C:\Users\Dell\Desktop\2 курс\2 курс 2 семестр\практика\Binary_Tree\bin\Debug\netcoreapp3.1\Binary_Tree.deps.json
+C:\Users\Dell\Desktop\2 курс\2 курс 2 семестр\практика\Binary_Tree\bin\Debug\netcoreapp3.1\Binary_Tree.runtimeconfig.json
+C:\Users\Dell\Desktop\2 курс\2 курс 2 семестр\практика\Binary_Tree\bin\Debug\netcoreapp3.1\Binary_Tree.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\2 курс\2 курс 2 семестр\практика\Binary_Tree\bin\Debug\netcoreapp3.1\Binary_Tree.dll
+C:\Users\Dell\Desktop\2 курс\2 курс 2 семестр\практика\Binary_Tree\bin\Debug\netcoreapp3.1\Binary_Tree.pdb
+C:\Users\Dell\Desktop\2 курс\2 курс 2 семестр\практика\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\2 курс\2 курс 2 семестр\практика\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.Form1.resources
+C:\Users\Dell\Desktop\2 курс\2 курс 2 семестр\практика\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\2 курс\2 курс 2 семестр\практика\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\2 курс\2 курс 2 семестр\практика\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\2 курс\2 курс 2 семестр\практика\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.AssemblyInfo.cs
+C:\Users\Dell\Desktop\2 курс\2 курс 2 семестр\практика\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\2 курс\2 курс 2 семестр\практика\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.dll
+C:\Users\Dell\Desktop\2 курс\2 курс 2 семестр\практика\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.pdb
+C:\Users\Dell\Desktop\2 курс\2 курс 2 семестр\практика\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.genruntimeconfig.cache
