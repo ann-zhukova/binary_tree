@@ -11,5 +11,4 @@
 #Source Control
 *.orig
 
-# Visual Studio temp
 .vs/
